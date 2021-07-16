@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfect Pizza</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="header">
+    <center><h1>Perfect Pizza</h1></center>
+    </div>
+
+    <div class="pizzas">
+        <div class="pizza small_pizza">
+            <h2>Small Pizza</h2>
+            <img src="pizza-one.png" width="70">
+            <h3>R49.00</h3>
+            <div>
+                <h5>Meaty: Ham, pepperoni, bacon, beef, Perfect Pizza sauce<h5>
+                
+                <h5>Meaty & veggie: Beef, mushroom, tomato, onion, Perfect Pizza sauce<h5>
+                
+                <h5>Chilli: Beef, jalapeno, green pepper, onion, Perfect Pizza sauce<h5>
+            </div>
+        </div>
+
+        <div class="pizza medium_pizza">
+            <h2>Medium Pizza</h2>
+            <img src="pizza-one.png" width="90">
+            <h3>R89.00</h3>
+            <div>
+                <h5>Meaty: Ham, pepperoni, bacon, beef, Perfect Pizza sauce<h5>
+                    
+                <h5>Meaty & veggie: Beef, mushroom, tomato, onion, Perfect Pizza sauce<h5>
+                    
+                <h5>Chilli: Beef, jalapeno, green pepper, onion, Perfect Pizza sauce<h5>           
+            </div>
+        </div>
+
+        <div class="pizza large_pizza">
+            <h2>Large Pizza</h2>
+            <img src="pizza-one.png" width="110">
+            <h3>R129.00</h3>
+            <div>
+                <h5>Meaty: Ham, pepperoni, bacon, beef, Perfect Pizza sauce<h5>
+                        
+                <h5>Meaty & veggie: Beef, mushroom, tomato, onion, Perfect Pizza sauce<h5>
+                        
+                <h5>Chilli: Beef, jalapeno, green pepper, onion, Perfect Pizza sauce<h5>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <div class="pizza contact_us">
+        <center><h2>Contact details</h2>
+
+    Contact us at: 011 210 1234 info@perfectpizza.co.za</center> 
+    </div>
+
+</body>
+
+</html>
